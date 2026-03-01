@@ -5,7 +5,7 @@ import plotly.express as px
 # --- Configuração da Página ---
 # Define o título da página, o ícone e o layout para ocupar a largura inteira.
 st.set_page_config(
-    page_title="Dashboard de Salários na Área de Tecnologia", #título da guia do navegador
+    page_title="Dashboard de Salários na Área de Dados", #título da guia do navegador
     page_icon="📊", #ícone do dado ao lado do título
     layout="wide",
 )
